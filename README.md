@@ -12,8 +12,8 @@
 * Technologies: Computer Vision, Convolutional Neural Networks, Python (PyTorch)
 
 ---
-**Kafka Streaming ML: Weather Predictions** 
-* Description: ML predictions on real-time weather data using Apache Kafka and AWS, investigating the impact of resource constraints on the performance of the streaming application pipeline.
+**Real-time ML Weather Predictions with Apache Kafka on AWS** 
+* Description: ML predictions on real-time weather data using Apache Kafka on AWS, investigating the impact of resource constraints on the performance of the streaming application pipeline.
 * Team: 4
 * Technologies: Data Science, MLOps, Kafka, AWS
 
@@ -36,7 +36,6 @@
 * Team: 2
 * Technologies: Reinforcement Learning, Python
 
----
 
 
 <!--
