@@ -1,6 +1,6 @@
 ## Projects
 
-[Generating realistic tree images with Stable Diffusion and ControlNet](github.com/LinoLerch/ControlNet-Trees) <!--| Start Date - End Date -->
+[Generating realistic tree images with Stable Diffusion and ControlNet](https://github.com/LinoLerch/ControlNet-Trees) <!--| Start Date - End Date -->
 * Description: Trained a custom ControlNet to generate tree images based on a hand-drawn tree skeleton condition
 * Team: Solo
 * Technologies: Generative AI, Diffusion Models, Python (PyTorch), HuggingFace
