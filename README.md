@@ -7,7 +7,7 @@
 
 ---
 [Feedback Networks for Robust Object Detection](https://github.com/LinoLerch/MMdetectionRobustness) <!--| Start Date - End Date -->
-* Description: Developed two feedback networks on the basis of a Faster R-CNN architecture with a ResNet backbone
+* Description: Added feedback connections in Faster R-CNN's ResNet backbone to improve robustness against image corruptions
 * Team: Solo
 * Technologies: Computer Vision, Convolutional Neural Networks, Python (PyTorch)
 
