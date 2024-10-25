@@ -1,7 +1,7 @@
 ## Projects
 
 [Generating realistic tree images with Stable Diffusion and ControlNet](https://github.com/LinoLerch/ControlNet-Trees) <!--| Start Date - End Date -->
-* Description: Trained a custom ControlNet to generate tree images based on a hand-drawn tree skeleton condition
+* Description: Trained a custom ControlNet allowing to guide tree image generation with a hand-drawn tree skeleton condition
 * Team: Solo
 * Technologies: Generative AI, Diffusion Models, Python (PyTorch), HuggingFace
 
@@ -25,7 +25,7 @@
 
 ---
 **Learning to Query Social Media via Interpretable ML** <!--| Start Date - End Date -->
-* Description: Combining natural language processing and decision trees to improve social media API queries
+* Description: Combined natural language processing and optimized sparse decision trees to improve social media API queries
 * Team: 4
 * Technologies: Explainable AI, Decision Trees, Python (scikit-learn)
 
