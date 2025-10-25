@@ -49,8 +49,12 @@
 * Team: 4
 
 **EDTH MDS Hack: SE3 Labs Challenge**
-* Description: Visual drone-map localization pipeline using SuperPoint for keypoint extraction and LightGlue for matching.
+* Description: [Visual drone-map localization pipeline](https://github.com/LinoLerch/img_map_localization) using SuperPoint for keypoint extraction and LightGlue for matching.
 * Team: 3
+
+**TUM.ai x BKW Engineering Hackathon**
+* Description: [FachPlanner](https://github.com/kkkamur07/BKWHackathon) - AI-powered building engineering planning and cost estimation in the construction industry.
+* Team: 4
 
 <!--
 **LinoLerch/LinoLerch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
