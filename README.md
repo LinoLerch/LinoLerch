@@ -1,5 +1,6 @@
 ## Publications
 Liu, Y., **Lerch, L.**, Palmieri, L., Rudenko, A., Koch, S., Ropinski, T., Aiello, M. (2025). **Context-Aware Human Behavior Prediction Using Multimodal Large Language Models: Challenges and Insights**. IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) 2025.   
+
 Project Page: [CAP-MLLM](https://cap-mllm.github.io/) - Code: [boschresearch/cap-mllm](https://github.com/boschresearch/cap-mllm) - Paper: [arXiv:2504.00839](https://arxiv.org/abs/2504.00839).
 
 ## University Projects (MSc AI)
